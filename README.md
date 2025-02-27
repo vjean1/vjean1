@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Tech maven and coding virtuoso. Unleashing innovation with every keystroke. Meet the wizard behind the screen, @vjean1.
 <!--
 **vjean1/vjean1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
